@@ -22,6 +22,7 @@
  <p align="left">
       <img src="https://img.shields.io/badge/tencentqq-1EBAFC?style=flat-square&logo=tencentqq&logoColor=white"/>
       <img src="https://img.shields.io/badge/wechat-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/yhaolin9801@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
 ---
